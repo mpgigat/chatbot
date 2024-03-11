@@ -1,0 +1,7 @@
+*_sessions
+*.log
+*.png
+node_modules
+public/*
+!public/.gitkeep
+nodemon.json

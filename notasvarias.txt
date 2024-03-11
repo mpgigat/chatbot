@@ -1,0 +1,14 @@
+recuerda combinar con
+
+buena alimentacion
+ejercicio
+actitud positiva
+descanso suficiente y reparador
+
+
+https://github.com/leifermendez/bot-yt-master-class/blob/master/src/services/openai/prompt.ts
+https://www.youtube.com/watch?v=rHLsQwaZsxk&t=5284s
+
+https://github.com/leifermendez/bot-ws-plugin-openai/blob/master/src/prompt.js
+https://github.com/leifermendez/bot-promp/blob/master/promps/02_VENDEDOR.txt
+https://github.com/leifermendez/bot-peluqueria/blob/master/src/flows/seller.flow.ts
